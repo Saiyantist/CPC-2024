@@ -12,6 +12,6 @@ arr = list(input("Input: "))
 solution = unique_nums(arr)
 print(f"Output:\n{solution[0]} {solution[1]}")
 
-Functionality: 4
-Performance: 4
-Quality: 3.5
+# Functionality: 4
+# Performance: 4
+# Quality: 3.5

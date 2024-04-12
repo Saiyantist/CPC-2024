@@ -19,6 +19,6 @@ print(N)
 # print(rm_map)
 
 
-Functionality: 5
-Performance: 5
-Quality: 3
+# Functionality: 5
+# Performance: 5
+# Quality: 3
