@@ -18,3 +18,7 @@ def getNonRepeating(arr):
             result.append(arr.pop(0))
     return result
 print(getNonRepeating([1, 2, 3, 2, 1, 4, 5, 5]))
+
+# Functionality: 4
+# Performance: 3.5
+# Quality: 3

@@ -17,3 +17,7 @@ def mask_my_credit_card_number(string):
             result = f"{result}{string[i]}"
     return result
 print(mask_my_credit_card_number('The number 1234-5678-9123-4567 is my credit card number'))
+
+# Functionality: 5
+# Performance: 4
+# Quality: 4

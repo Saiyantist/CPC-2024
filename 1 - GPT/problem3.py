@@ -7,3 +7,7 @@ def is_balanced_parentheses(s):
         return False
 
 print(is_balanced_parentheses(s))
+
+# Functionality: 1
+# Performance: 1.5
+# Quality: 2

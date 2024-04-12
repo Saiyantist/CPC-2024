@@ -16,3 +16,6 @@ def pascal_triangle(depth):
         
 pascal_triangle(6)
 
+# Functionality: 4
+# Performance: 3.5
+# Quality: 3

@@ -17,3 +17,8 @@ for i in range (0,len(S)):
 
 print(N)
 # print(rm_map)
+
+
+Functionality: 5
+Performance: 5
+Quality: 3

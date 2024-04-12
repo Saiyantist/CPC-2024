@@ -28,3 +28,7 @@ def getNonRepeating(arr):
     [print(str(i), end=" ") for i in distinctArr]
 
 getNonRepeating(arr)
+
+# Functionality: 2
+# Performance: 2
+# Quality: 3

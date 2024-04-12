@@ -9,3 +9,7 @@ def reverse_string(string):
 inp = input("enter a word: ")
 
 reverse_string(inp)
+
+# Functionality: 4
+# Performance: 4
+# Quality: 3.5

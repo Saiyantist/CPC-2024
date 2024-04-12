@@ -6,6 +6,6 @@ def reverse_string(string):
 
 reverse_string("Artificial Intelligence")
 
-
-
-   
+# Functionality: 4
+# Performance: 3
+# Quality: 3

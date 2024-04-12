@@ -22,3 +22,7 @@ if missing_number == 0:
     missing_number = new_arr[-1] + 1
 
 print(missing_number)
+
+# Functionality: 3.5
+# Performance: 3.5
+# Quality: 3

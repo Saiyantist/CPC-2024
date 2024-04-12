@@ -9,3 +9,7 @@ def create_pyramid(depth:int):
 
 depth = int(input("Depth: "))
 create_pyramid(depth)
+
+# Functionality: 5
+# Performance: 4.5
+# Quality: 4

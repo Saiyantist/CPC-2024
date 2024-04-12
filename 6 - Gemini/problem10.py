@@ -15,3 +15,7 @@ def masking(S: str):
      
 input_string = input("Input: ")
 print(masking(input_string))
+
+# Functionality: 5
+# Performance: 4
+# Quality: 4

@@ -16,3 +16,7 @@ letter_count = count_letterCount (input_string)
 print (letter_count)
 # print(f"Vowels: {vowels}")
 # print(f"Consonant: {consonant}")
+
+# Functionality: 5
+# Performance: 5
+# Quality: 4

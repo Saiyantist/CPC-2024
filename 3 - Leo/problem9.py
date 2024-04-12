@@ -14,3 +14,7 @@ def pascal_triangle(depth):
         print()
 
 pascal_triangle(depth)
+
+# Functionality: 4.5
+# Performance: 2.5
+# Quality: 4

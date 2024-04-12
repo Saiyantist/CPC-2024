@@ -17,3 +17,7 @@ def parentheses_checker(S):
 
 input_string = input("Input: ")
 print(parentheses_checker(input_string))
+
+# Functionality: 5
+# Performance: 4.5
+# Quality: 4.5

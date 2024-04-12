@@ -31,3 +31,7 @@ def pass_checker(S:str):
 
 password = input("Input: ")
 print(pass_checker(password))
+
+# Functionality: 5
+# Performance: 5
+# Quality: 3.5

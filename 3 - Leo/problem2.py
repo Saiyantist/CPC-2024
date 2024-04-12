@@ -34,3 +34,7 @@ def find_smallest_missing_positive(arr):
             print("`. The smallest missing positive number is `"+str(missing)+"`.")
 
 find_smallest_missing_positive(arr)
+
+# Functionality: 4
+# Performance: 3
+# Quality: 4.5

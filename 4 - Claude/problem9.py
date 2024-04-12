@@ -13,3 +13,7 @@ def pascal_training(depth):
         result.append(numbers.center(space))
     return '\n'.join(result)
 print(pascal_training(5))
+
+# Functionality: 5
+# Performance: 4
+# Quality: 4
