@@ -16,3 +16,4 @@ def find_unique_number(arr):
             repeating_number = False
     return unique_num
 print(find_unique_number([2, 3, 5, 3, 2]))
+# print(find_unique_number([1, 1, 2, 2, 3, 3, 4]))

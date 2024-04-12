@@ -1,4 +1,8 @@
-arr = list(input('input: '))
+# arr = list(input('input: '))
+# arr = [3, 4, -1, 1, -2]
+arr = [1, 2, 3]
+
+# both tests worked correctly
 
 new_arr = []
 

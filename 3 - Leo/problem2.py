@@ -1,4 +1,6 @@
 arr = [3, 4, -1, 1, -2]
+# arr = [1, 2, 3] 
+# this test did not work correctly
 
 def find_smallest_missing_positive(arr):
     sortedArr = sorted(arr)
